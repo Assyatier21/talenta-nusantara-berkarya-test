@@ -15,8 +15,8 @@ We take pride in implementing the best software development practices, including
 - Clone the git repository:
 
 ```
-$ git clone https://github.com/Assyatier21/tnb-technical-test.git
-$ cd tnb-technical-test
+$ git clone https://github.com/Assyatier21/talenta-nusantara-berkarya-test.git
+$ cd talenta-nusantara-berkarya-test
 ```
 
 - Install Dependencies
@@ -53,4 +53,4 @@ please follow this [tutorial](https://techblost.com/how-to-setup-sonarqube-local
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Assyatier21/simple-tnb-technical-test/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Assyatier21/simple-talenta-nusantara-berkarya-test/blob/master/LICENSE) file for details.
